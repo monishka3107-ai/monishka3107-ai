@@ -11,12 +11,10 @@
 ### 🚀 About Me
 
 Hi, I'm Monishka 👋  
-I'm a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning with a passion for building practical, user-focused software. I enjoy turning ideas into real-world projects while continuously strengthening my problem-solving and programming skills.  
-This GitHub is a collection of my learning, experiments, and projects—from web applications and productivity tools to AI-based solutions. I'm always exploring new technologies, improving my development practices, and documenting my progress. My goal is to grow into a software engineer who creates impactful, scalable, and meaningful technology through continuous learning and hands-on experience.
+I'm a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning with a passion for building practical, user-focused software. I enjoy turning ideas into real-world projects while continuously strengthening my problem-solving and programming skills.
 
 😄 &nbsp;Pronouns: **she/her**  
 🔭 &nbsp;I'm currently working on **Data Structures &amp; Algorithms, building portfolio-worthy projects, and expanding my knowledge of AI/ML and web development.**  
-🌱 &nbsp;I'm currently learning **Data Structures &amp; Algorithms, Python, C, JavaScript, web development, and AI/ML fundamentals. Alongside coursework, I regularly solve coding challenges on LeetCode and build projects that help me apply concepts beyond the classroom.**  
 👯 &nbsp;I'm looking to collaborate on **open-source projects, AI/ML applications, web development, automation tools, and beginner-friendly software projects. I enjoy learning by building, sharing ideas, and contributing to meaningful solutions. Whether it's developing new features, fixing bugs, or exploring innovative ideas, I'm always excited to work with other developers and grow through collaboration.**
 
 ### 🛠️ Tech Stack
@@ -72,3 +70,4 @@ This GitHub is a collection of my learning, experiments, and projects—from web
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/monishka3107-ai">monishka3107-ai</a></i></p>
+
