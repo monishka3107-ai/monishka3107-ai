@@ -1,166 +1,75 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/monishka3107-ai">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f599ca&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Monishka" alt="Hello! I&#39;m Monishka" />
+  </a>
+</p>
 
-<!-- 🎀 HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fb1&height=200&section=header&text=Hi%2C%20I'm%20monishkka3107-ai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Pixel-perfect%20%E2%80%A2%20Cute%20by%20design&descAlignY=58&descSize=16" alt="Hi, I'm monishkka3107-ai - Frontend Developer" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=550&height=44&lines=Learning%20%26%20Building%20Cool%20things%20%3C3" alt="Typing headlines" />
+</p>
 
-<br/>
+### 🚀 About Me
 
-<!-- 🧑‍💻 MY AVATAR (upload your images into an `assets/` folder in this repo) -->
-<img src="./assets/avatar.png" alt="monishkka3107-ai avatar" width="260"/>
+Hi, I'm Monishka 👋  
+I'm a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning with a passion for building practical, user-focused software. I enjoy turning ideas into real-world projects while continuously strengthening my problem-solving and programming skills.
 
-<br/>
+😄 &nbsp;Pronouns: **she/her**  
+🔭 &nbsp;I'm currently working on **Data Structures &amp; Algorithms, building portfolio-worthy projects, and expanding my knowledge of AI/ML and web development.**  
+👯 &nbsp;I'm looking to collaborate on **open-source projects, AI/ML applications, web development, automation tools, and beginner-friendly software projects. I enjoy learning by building, sharing ideas, and contributing to meaningful solutions. Whether it's developing new features, fixing bugs, or exploring innovative ideas, I'm always excited to work with other developers and grow through collaboration.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5C8A&center=true&vCenter=true&width=520&lines=Frontend+Developer+%F0%9F%8E%80;I+turn+ideas+into+cute%2C+fast+UIs;Hello+Kitty+fan+%7C+Animation+nerd;Keep+coding%2C+keep+growing+%E2%9C%A8" alt="Typing intro"/>
+### 🛠️ Tech Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
----
+### 🔗 Connect With Me
 
-## 🎀 About Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/monishka-yadav-0466b334a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:monishka310307@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<table>
-<tr>
-<td width="62%">
+### 📊 GitHub Stats
 
-- 👋 Hey! I'm **monishkka3107-ai**, a frontend developer who loves building playful, polished web experiences.
-- 🎨 I care about motion, typography and the small details that make a page feel alive.
-- 🌸 Big **Hello Kitty** fan, and you'll see that theme all over my projects.
-- 💻 Always experimenting with scroll animations, 3D on the web, and cinematic landing pages.
-- 🌱 Currently learning: *advanced GSAP, Three.js, and TypeScript.*
-- 💬 Ask me about: HTML, CSS, JavaScript, React, animations.
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=monishka3107-ai&show_icons=true&theme=tokyonight&title_color=f599ca&icon_color=f599ca&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=monishka3107-ai&layout=compact&theme=tokyonight&title_color=f599ca&icon_color=f599ca&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-</td>
-<td width="38%" align="center">
+### 📈 Contribution Graph
 
-<img src="./assets/sticker.png" alt="monishkka3107-ai sticker" width="260"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🍓 What I Build
-
-| 🎀 | Focus | What it means |
-|----|-------|---------------|
-| 🖥️ | **Landing pages** | Cinematic, story-driven, scroll-powered |
-| ✨ | **Micro-interactions** | Hover, parallax and GSAP magic |
-| 🧊 | **3D on the web** | Three.js scenes that run in the browser |
-| 📱 | **Responsive UI** | Looks great on every screen |
-
----
-
-## 🧰 Skill Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,git,github,figma,vscode,nodejs&perline=7" alt="Tech stack"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSAP-ff5c8a?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-<img src="https://img.shields.io/badge/Three.js-ffb3c9?style=for-the-badge&logo=three.js&logoColor=black" alt="Three.js"/>
-<img src="https://img.shields.io/badge/Framer_Motion-ff8fb1?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-
-</div>
-
----
-
-## 🎀 Featured Projects
-
-> Replace the repo names below with your real repositories. Star counts update automatically.
-
-<table>
-<tr><th>Project</th><th>What it is</th><th>Tech used</th><th align="center">⭐</th></tr>
-<tr>
-<td><a href="https://github.com/monishkka3107-ai/hello-kitty-experience"><b>Hello Kitty Experience</b></a></td>
-<td>Cinematic, scroll-driven story with floating bows and sparkles</td>
-<td><code>JavaScript</code> <code>CSS</code></td>
-<td align="center"><img src="https://img.shields.io/github/stars/monishkka3107-ai/hello-kitty-experience?style=flat-square&color=ff5c8a&label="/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/monishkka3107-ai/hello-kitty-sweet-mode"><b>Hello Kitty: Sweet Mode</b></a></td>
-<td>Awwwards-style scroll experience with a sparkle-burst transformation</td>
-<td><code>HTML</code> <code>GSAP</code></td>
-<td align="center"><img src="https://img.shields.io/github/stars/monishkka3107-ai/hello-kitty-sweet-mode?style=flat-square&color=ff5c8a&label="/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/monishkka3107-ai/hello-kitty-landing"><b>Hello Kitty Landing</b></a></td>
-<td>Cinematic character landing page</td>
-<td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
-<td align="center"><img src="https://img.shields.io/github/stars/monishkka3107-ai/hello-kitty-landing?style=flat-square&color=ff5c8a&label="/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/monishkka3107-ai/pink-speed"><b>Pink Speed</b></a></td>
-<td>Fast, motion-heavy tribute build</td>
-<td><code>JavaScript</code></td>
-<td align="center"><img src="https://img.shields.io/github/stars/monishkka3107-ai/pink-speed?style=flat-square&color=ff5c8a&label="/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/monishkka3107-ai/kawaii-infinity"><b>Kawaii Infinity</b></a></td>
-<td>Soft-glow interactive page with pastel visuals</td>
-<td><code>HTML</code> <code>CSS</code></td>
-<td align="center"><img src="https://img.shields.io/github/stars/monishkka3107-ai/kawaii-infinity?style=flat-square&color=ff5c8a&label="/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/monishkka3107-ai/hello-kitty-3d"><b>Hello Kitty 3D World</b></a></td>
-<td>3D web experience in a candy-coloured world</td>
-<td><code>TypeScript</code> <code>Three.js</code></td>
-<td align="center"><img src="https://img.shields.io/github/stars/monishkka3107-ai/hello-kitty-3d?style=flat-square&color=ff5c8a&label="/></td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/monishkka3107-ai?tab=repositories"><b>→ See all my repositories</b></a>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monishka3107-ai&bg_color=00000000&color=f599ca&line=f599ca&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=monishkka3107-ai&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff5c8a&icon_color=ff8fb1&text_color=6b3a4a" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishkka3107-ai&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff5c8a&text_color=6b3a4a" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monishkka3107-ai&hide_border=true&background=fff0f5&ring=ff5c8a&fire=ff8fb1&currStreakLabel=ff5c8a&sideLabels=6b3a4a&currStreakNum=6b3a4a&sideNums=6b3a4a&dates=a0707f" alt="GitHub streak"/>
-
-<br/><br/>
-
-### 🌸 My Contribution Garden
-
-*Every commit makes the garden bloom a little more.*
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monishkka3107-ai&bg_color=fff0f5&color=ff5c8a&line=ff8fb1&point=ff5c8a&area=true&area_color=ffc2d6&hide_border=true" alt="Contribution graph" width="100%"/>
-
-</div>
-
----
-
-## 💌 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/monishkka3107-ai"><img src="https://img.shields.io/badge/GitHub-ff5c8a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-ff8fb1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-ffb3c9?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ff5c8a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=monishkka3107-ai&color=ff5c8a&style=for-the-badge&label=VISITORS" alt="Profile views"/>
-
-<br/><br/>
-
-**Keep coding, keep growing, keep it cute.** 🎀✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fb1&height=120&section=footer" width="100%" alt="footer"/>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/monishka3107-ai">monishka3107-ai</a></i></p>
 
 
